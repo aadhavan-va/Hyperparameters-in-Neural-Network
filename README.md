@@ -12,3 +12,5 @@ The high variance problem can be overcome by certain techniques
         
 ## Regularization
 Among the L1 and L2 regularization the "L2 regularization technique " is preferred as the L1 regularization make the weights more parse (more zeros in the matrix).The frobenious form is used in the L2 regularization .The L2 regularization is also called as Weight Decay.
+### Note
+If the lambda value in L2 regularization becomes larger ,then the weights are reduced as close to zero , then there is chance of getting a linear network.
